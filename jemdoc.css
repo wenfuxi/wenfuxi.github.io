@@ -398,14 +398,14 @@ div#member-container{
 div#member{
 	display: inline-block;
 	vertical-align: top;
-	width: 180px;
+	width: 160px;
 	text-align: center;
 	margin-bottom: 15px;
 	margin-right: 10px;
 }
 
 div#member img{
-	height: 180px;
+	height: 90px;
 	margin: 0px;
 	padding: 0px;
 }
